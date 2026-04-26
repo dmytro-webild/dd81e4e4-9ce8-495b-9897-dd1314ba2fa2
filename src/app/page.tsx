@@ -202,7 +202,7 @@ export default function LandingPage() {
         },
         {
           id: "m3",
-          value: "25 ",
+          value: "15 ",
           description: "Years of Experience",
         },
       ]}
