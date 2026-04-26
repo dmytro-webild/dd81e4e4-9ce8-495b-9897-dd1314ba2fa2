@@ -192,17 +192,17 @@ export default function LandingPage() {
       metrics={[
         {
           id: "m1",
-          value: "1500+",
+          value: "5000+",
           description: "Cakes Baked",
         },
         {
           id: "m2",
-          value: "500+",
+          value: "800+",
           description: "Happy Weddings",
         },
         {
           id: "m3",
-          value: "20",
+          value: "25 ",
           description: "Years of Experience",
         },
       ]}
